@@ -104,11 +104,9 @@ In this project there are three modules:
 ![Screenshot (242)](https://user-images.githubusercontent.com/95666818/213919095-df5688a4-5d82-48aa-b353-52bc735b0b21.png)
 
 ## Authors
-- [@Mohd Ahasan Khan](https://github.com/MOHDAHASANKHAN1)
+- [@MKausar Raza ](https://github.com/KnowledgeMarkg)
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ahasan.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-ahasan-khan-0240b5205/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoAhsanKhan5)
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://knowledgemarkg.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kausar-raza86/)
